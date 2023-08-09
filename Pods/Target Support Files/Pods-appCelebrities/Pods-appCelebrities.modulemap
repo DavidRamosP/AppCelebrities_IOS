@@ -1,0 +1,6 @@
+framework module Pods_appCelebrities {
+  umbrella header "Pods-appCelebrities-umbrella.h"
+
+  export *
+  module * { export * }
+}
